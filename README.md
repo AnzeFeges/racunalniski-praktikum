@@ -15,7 +15,7 @@
 ## Izvorna koda
 
 Včasih pride prav značka `kbd` za tipke. Značko uporabimo takole:
- 
+
 <!-- začetek bloka z izvorno kodo -->
 ```
 Ctrl
